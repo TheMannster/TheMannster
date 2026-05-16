@@ -16,7 +16,7 @@
 
 ## What I'm about
 
-I'm **slowly learning** in **Lua** and **FiveM** scripting. I'm not pretending to be a wizard — I'm still in the *figure-it-out, break-it, fix-it* phase. That's the fun part.
+I'm **slowly learning up** in **Lua** and **FiveM** scripting. I'm not pretending to be a wizard — I'm still in the *figure-it-out, break-it, fix-it* phase. That's the fun part.
 
 I care about **clean, maintainable resource code** and scripts people can **read, customize, and repair** without begging the original author for support or fixing their resource.
 
@@ -46,17 +46,17 @@ If you're curious about the vibe or the server, hit the site:
 
 ---
 
-## Stacks & focus
+## What I usually work on
 
 | Area | Notes |
 |------|--------|
-| **Lua** | FiveM resources, natives, event flow, keeping logic sane |
-| **FiveM** | `fxmanifest`, client/server splits, performance, not leaking globals everywhere |
-| **Giving back** | Docs, examples, and OSS-first releases where it makes sense |
+| **Lua** | FiveM resources, natives, event handling, performance stuff |
+| **FiveM** | Qbox/QBCore, client/server logic, optimization, avoiding cursed code |
+| **Open source** | Releasing resources people can actually edit and maintain |
 
 ---
 
-## Let's talk
+## Contact
 
 - **Discord:** `themannster.`  
 - **GitHub:** you're already here, issues and discussions welcome on anything I publish  
