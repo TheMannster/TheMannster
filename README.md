@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey — I'm **Manny** ([@TheMannster](https://github.com/TheMannster))
+# Hello I'm **Manny** ([@TheMannster](https://github.com/TheMannster))
 
 **Lua · FiveM · building stuff that hopefully stays alive**
 
