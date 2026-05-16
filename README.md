@@ -16,7 +16,7 @@
 
 ## What I'm about
 
-I'm **slowly learning up** in **Lua** and **FiveM** scripting. I'm not pretending to be a wizard — I'm still in the *figure-it-out, break-it, fix-it* phase. That's the fun part.
+I'm **slowly learning up** in **Lua** and **FiveM** scripting. I'm not pretending to be a wizard I'm still in the *figure-it-out, break-it, fix-it* phase.
 
 I care about **clean, maintainable resource code** and scripts people can **read, customize, and repair** without begging the original author for support or fixing their resource.
 
